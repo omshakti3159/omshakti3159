@@ -297,11 +297,3 @@
 ![Profile Stats](https://activity-graph.herokuapp.com/graph?username=omshakti3159&theme=chartreuse-dark)  
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/UtkarshPathrabe/omshakti3159/blob/output/github-contribution-grid-snake.svg" alt="utkarsh pathrabe stats snake" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
-</p>
