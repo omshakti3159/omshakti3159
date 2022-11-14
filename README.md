@@ -16,7 +16,7 @@
 
 <h3 align="center">
     I am a Software Engineer (MERN STACK) at Devtech Enterprises Pvt. Ltd., Lucknow, India.<br />
-    I am currently persuing Computer Science Post Graduate from BBD, Lucknow, India.<br />
+    I am currently persuing MCA from BBD, Lucknow, India.<br />
     I like solving competitive coding problems, exploring new technologies, drawing, painting, travelling and gaming.
 </h3>
 
@@ -295,5 +295,3 @@
 </p>
 
 ![Profile Stats](https://activity-graph.herokuapp.com/graph?username=omshakti3159&theme=chartreuse-dark)  
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
