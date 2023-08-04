@@ -16,7 +16,7 @@
 
 <h3 align="center">
     I am a Software Engineer (MERN STACK)<br />
-    I am currently persuing MCA from BBD, Lucknow, India.<br />
+    Graduated in Computer Science<br />
     I like solving competitive coding problems, exploring new technologies, drawing, painting, travelling and gaming.
 </h3>
 
