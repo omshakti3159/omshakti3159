@@ -15,7 +15,7 @@
 </h3> -->
 
 <h3 align="center">
-    I am a Software Engineer (MERN STACK) at Devtech Enterprises Pvt. Ltd., Lucknow, India.<br />
+    I am a Software Engineer (MERN STACK)<br />
     I am currently persuing MCA from BBD, Lucknow, India.<br />
     I like solving competitive coding problems, exploring new technologies, drawing, painting, travelling and gaming.
 </h3>
